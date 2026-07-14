@@ -1,16 +1,12 @@
-# WCB Enterprise
+﻿# wcb
 
-Unbranded WCB-Gateway + Dashboard Kernel Distribution.
+Dashboard + Kernel Distribution.
 
 ## Components
 
-Dieses Repo enthaelt die WCB-Engine-Distribution.
-
-| Component | Description |
-|-----------|-------------|
-| Dashboard | Backend (main.py) + Frontend (dist/) |
-| Config | WCB-Gateway Konfiguration |
-| Kernel | System-Kernel + Tools |
+- Dashboard Backend + Frontend
+- wcb-Gateway Config
+- Kernel + Tools
 
 ## License
 
